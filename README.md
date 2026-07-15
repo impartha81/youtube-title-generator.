@@ -1,22 +1,28 @@
 # YouTube Title Generator
 
-Free AI-powered YouTube Title Generator.
+Free AI-powered YouTube Title Generator for creators.
 
-## Live Website
+## 🌐 Official Website
+
 https://yttitlegen.lovable.app/
 
-## Features
-- AI-generated YouTube titles
-- SEO optimized
-- Mobile friendly
-- Free to use
-- Instant results
+## 🚀 Free Tools
 
-## Related Tools
+- YouTube Title Generator
 - YouTube Keyword Generator
 - YouTube Description Generator
+- YouTube Script Generator
 - YouTube Hashtag Generator
-- YouTube Tag Generator
-- YouTube Channel Name Generator
+- YouTube Money Calculator
 
-Built with Lovable.
+## Why Use It?
+
+- SEO-friendly titles
+- AI-powered suggestions
+- Fast and free
+- Mobile friendly
+
+Visit the website:
+https://yttitlegen.lovable.app/
+
+⭐ If you like this project, please Star this repository.
